@@ -9,21 +9,21 @@ export function TestimonialsSection() {
         "MeetNext has transformed how our remote team collaborates. The video quality is exceptional, and the features are intuitive.",
       author: "Sarah Johnson",
       role: "CTO, TechInnovate",
-      avatar: "/placeholder.svg?height=64&width=64",
+      avatar: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bW9kZWx8ZW58MHx8MHx8fDA%3D",
     },
     {
       quote:
         "We've tried many meeting platforms, but MeetNext stands out with its reliability and advanced features. It's become essential to our workflow.",
       author: "Michael Chen",
       role: "Product Manager, GlobalDesign",
-      avatar: "/placeholder.svg?height=64&width=64",
+      avatar: "https://images.unsplash.com/photo-1492288991661-058aa541ff43?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzJ8fG1vZGVsfGVufDB8fDB8fHww",
     },
     {
       quote:
         "The breakout rooms and recording features have made our virtual workshops so much more effective. Our participants love the experience.",
       author: "Elena Rodriguez",
       role: "Director of Education, LearnSphere",
-      avatar: "/placeholder.svg?height=64&width=64",
+      avatar: "https://images.unsplash.com/photo-1512316609839-ce289d3eba0a?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzF8fG1vZGVsfGVufDB8fDB8fHww",
     },
   ]
 

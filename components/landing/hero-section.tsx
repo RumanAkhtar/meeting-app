@@ -81,7 +81,7 @@ export function HeroSection() {
             <div className="absolute inset-0 bg-gradient-to-tr from-brand-light/20 to-brand-medium/20 rounded-xl"></div>
             <div className="relative mx-auto aspect-video w-full max-w-[600px] overflow-hidden rounded-xl border bg-muted shadow-xl lg:mx-0">
               <Image
-                src="/placeholder.svg?height=600&width=800"
+                src="https://images.unsplash.com/photo-1543269865-cbf427effbad?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                 width={800}
                 height={600}
                 alt="MeetNext platform interface"
